@@ -5,6 +5,7 @@
 	font-family: 'Dancing Script', cursive;
 	font-family: 'Pragati Narrow', sans-serif;
 *{ */
+*	
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -68,7 +69,54 @@ a,p,span{
 	vertical-align: middle;
 	margin-left: 20px;
 }
-.relative{
-	position: relative;
-	width: 100%;
+.box{
+	/* position: relative; */
+	width: 1200px;
+
+}
+.box img{
+	width: 1200px;
+	height: 900px;
+}
+.box h2{
+	position: absolute;
+    width: 100%;
+    bottom: 50px;
+    text-align: center;
+    font-size: 88px;
+    margin-left: -140px;
+    color: #7E4141;;
+}
+.box p{
+	position: absolute;
+    top: 689px;
+    margin-left: 400px;
+    width: 382px;
+    text-align: center;
+    font-size: 30px;
+    color: #966565;
+}
+.read-box{
+	position: absolute;
+    top: 830px;
+    margin-left: 500px;
+    width: 200px;
+    height: 60px;
+    background-color: #e1dfdf;
+    text-align: center;
+    color: #000000;
+    font-size: 25px;
+}
+.box-1 img{
+	position: absolute;
+	top: 670px;
+	left: 1300px;
+	width: 60px;
+	height: 61px
+}
+.design{
+	display: inline-block;
+	font-size: 60px;
+	margin-left: 60px;
+	color: #7E4141;
 }
