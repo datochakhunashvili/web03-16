@@ -145,6 +145,9 @@ a,p,span{
 	vertical-align: top;
 	margin-top: 50px;
 }
+.wrapper-wrapper{
+	margin-left: -60px;
+}
 .unsplash{
 	/* display: inline-block; */
 	width: 150px;
