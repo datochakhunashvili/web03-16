@@ -5,7 +5,7 @@
 	font-family: 'Dancing Script', cursive;
 	font-family: 'Pragati Narrow', sans-serif;
 *{ */
-*	
+*{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -74,9 +74,10 @@ a,p,span{
 	width: 1200px;
 
 }
-.box img{
+.room{
 	width: 1200px;
 	height: 900px;
+	margin-top: 50px;
 }
 .box h2{
 	position: absolute;
@@ -116,7 +117,116 @@ a,p,span{
 }
 .design{
 	display: inline-block;
+}
+.design h2{
+	display: inline-block;
 	font-size: 60px;
 	margin-left: 60px;
 	color: #7E4141;
+}
+.design, p{
+	width: 300px;
+    font-size: 20px;
+    margin-left: 57px;
+    display: inline-block;
+}
+.charis{
+	display: inline-block;
+}
+.charis-1{
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+	border-radius: 10%;
+	margin-left: 200px;
+}
+.wrapper{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+.unsplash{
+	/* display: inline-block; */
+	width: 150px;
+	height: 150px;
+	border-radius: 10%;
+}.wrapper, h2{
+	/* display: inline-block; */
+	font-size: 40px;
+	margin-left: 40px;
+	color: #7E4141;
+}
+.wrapper, p{
+	width: 200px;
+    font-size: 20px;
+    margin-left: 57px;
+	color: #0E0E0E;
+    display: inline-block;
+}
+.wrapper-1{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+      
+}
+.unsplash{
+	/* display: inline-block; */
+	width: 150px;
+	height: 150px;
+	border-radius: 10%;
+}.wrapper-1, h2{
+	/* display: inline-block; */
+	font-size: 40px;
+	margin-left: 40px;
+	color: #7E4141;
+}
+.wrapper-1, p{
+	width: 200px;
+    font-size: 20px;
+    margin-left: 57px;
+    display: inline-block;
+}
+.wrapper-2{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+.unsplash{
+	/* display: inline-block; */
+	width: 150px;
+	height: 150px;
+	border-radius: 10%;
+}.wrapper-2, h2{
+	/* display: inline-block; */
+	font-size: 40px;
+	margin-left: 40px;
+	color: #7E4141;
+}
+.wrapper-2, p{
+	width: 200px;
+    font-size: 20px;
+    margin-left: 57px;
+    display: inline-block;
+}
+.wrapper-3{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+.unsplash{
+	/* display: inline-block; */
+	width: 150px;
+	height: 150px;
+	border-radius: 10%;
+}.wrapper-3, h2{
+	/* display: inline-block; */
+	font-size: 40px;
+	margin-left: 40px;
+	color: #7E4141;
+}
+.wrapper-3, p{
+	width: 200px;
+    font-size: 20px;
+    margin-left: 57px;
+    display: inline-block;
 }
